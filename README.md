@@ -1,4 +1,4 @@
-# Assessing-the-health-of-a-shaft--SQM
+# Assessing-the-health-of-a-shaft--SOM
 **Note:** This project was done as a requirement for the course ENME691- Industrial AI at University of Maryland,College Park and was done in collaboration with Murilo Nicoluzzi (murinico@umd.edu) and Aniket Bharamgonda (abharamg@umd.edu). The data for this project was provided by the Industrial AI Center (iaiCenter) at University of Maryland, College Park. Contact: contact@iaicenter.com
 
 ## Project Description
